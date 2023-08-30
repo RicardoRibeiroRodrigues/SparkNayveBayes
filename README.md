@@ -1,7 +1,6 @@
-# Projeto 2 de megadados - Naive Bayes com pyspark!
+# Naive Bayes with PySpark!
 
-Neste projeto utilizamos o pyspark para construir um classificador Naive-Bayes para determinar o sentimento de um comentário, usamos para isso um banco de dados com aproximadamente um 1.5GB de dados, dando 3.6 milhões de comentários. O spark será utilizado para poder lidar de maneira eficiente com esse tanto de dados.
+In this project, PySpark was used to build a Naive-Bayes classifier to determine the sentiment of a comment. For that, was used a database with approximately 1.5GB of data, which amounts to 3.6 million comments. Spark was used to efficiently handle this large amount of data.
 
-
-## Aluno:
-[Ricardo Ribeiro Rodrigues](https://github.com/RicardoRibeiroRodrigues)
+# Student:
+Ricardo Ribeiro Rodrigues
